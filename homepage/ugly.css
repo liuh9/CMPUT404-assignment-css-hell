@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    max-width: 1200px;
+    color: blue;
+    font-size: 15px;
+    background-color: blueviolet;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: right;
+    color: blue;
+    background-color: green;
+}
+
+h2{
+    color: skyblue;
+    background-color: yellow;
+}
+
+img {
+    width: 50px;
+}
+
+section {
+    max-width: 640px;
+    background-color: darkred;
+}
+
+.grid-wrapper {
+    grid-gap: 5px;
+    grid-template-rows: repeat(2, [row] auto);
+}
+
+.about-me {
+    float: right;
+    line-height: 1em;
+}
