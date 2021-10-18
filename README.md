@@ -15,15 +15,22 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Part 1
 =================
-Add <link rel="stylesheet" href ="part1.css"> to each of the 3 gutenberg html files.
+Add "<link rel="stylesheet" href ="part1.css">" to each of the 3 gutenberg html files.
 
 Make backgroud-color be light yellow.
+
 Make body font be cursive.
+
 Make headers font be fantasy.
+
 Make headers color be light blue.
+
 Make hyperlinks font be fantasy.
+
 Make hyperlinks color be dark blue.
+
 Make image be auto-margined.
+
 Make padding of image be 10px 10px 80px 10px.
 
 
