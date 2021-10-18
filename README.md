@@ -15,7 +15,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Part 1
 =================
-Add (```<link rel="stylesheet" href ="part1.css">```) to each of the 3 gutenberg html files.
+Add ```<link rel="stylesheet" href ="part1.css">``` to each of the 3 gutenberg html files.
 
 Make backgroud-color be light yellow.
 
